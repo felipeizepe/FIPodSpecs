@@ -38,7 +38,7 @@ Pod::Spec.new do |s|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-s.license      = { :type => "MIT", :file => "./LICENSE.txt" }
+s.license      = { :type => "MIT", :file => "LICENSE.txt" }
 # s.license = 'Izepe License, all rights reserved'
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
